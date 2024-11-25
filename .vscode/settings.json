@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "sr_protocol.h": "c",
+        "stdbool.h": "c",
+        "cmath": "c",
+        "compare": "c",
+        "concepts": "c",
+        "type_traits": "c",
+        "limits": "c",
+        "*.tcc": "c",
+        "typeinfo": "c"
+    }
+}
